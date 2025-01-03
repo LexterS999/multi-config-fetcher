@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-03T10:36:34.324311",
+  "timestamp": "2025-01-03T11:27:18.531679",
   "channels": [
     {
       "url": "https://t.me/s/vpnfail_vless",
@@ -117,7 +117,7 @@
       "url": "https://t.me/s/ServerNett",
       "enabled": false,
       "metrics": {
-        "total_configs": 16,
+        "total_configs": 17,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -271,9 +271,9 @@
       "url": "https://t.me/s/PrivateVPNs",
       "enabled": true,
       "metrics": {
-        "total_configs": 17,
-        "valid_configs": 17,
-        "unique_configs": 17,
+        "total_configs": 19,
+        "valid_configs": 19,
+        "unique_configs": 19,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -1167,9 +1167,9 @@
       "url": "https://t.me/s/DirectVPN",
       "enabled": true,
       "metrics": {
-        "total_configs": 16,
-        "valid_configs": 15,
-        "unique_configs": 14,
+        "total_configs": 19,
+        "valid_configs": 18,
+        "unique_configs": 17,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -1517,7 +1517,7 @@
       "url": "https://t.me/s/antimeli",
       "enabled": false,
       "metrics": {
-        "total_configs": 9,
+        "total_configs": 7,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -1783,7 +1783,7 @@
       "url": "https://t.me/s/arv2ray",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
+        "total_configs": 17,
         "valid_configs": 2,
         "unique_configs": 2,
         "avg_response_time": 0,
@@ -2400,8 +2400,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 13,
-        "unique_configs": 13,
+        "valid_configs": 12,
+        "unique_configs": 12,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -3323,7 +3323,7 @@
       "url": "https://t.me/s/webovpn",
       "enabled": false,
       "metrics": {
-        "total_configs": 5,
+        "total_configs": 4,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -3701,7 +3701,7 @@
       "url": "https://t.me/s/xsv2ray",
       "enabled": false,
       "metrics": {
-        "total_configs": 3,
+        "total_configs": 1,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -4121,7 +4121,7 @@
       "url": "https://t.me/s/networknim",
       "enabled": false,
       "metrics": {
-        "total_configs": 5,
+        "total_configs": 4,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -4429,7 +4429,7 @@
       "url": "https://t.me/s/antifilterjadid",
       "enabled": true,
       "metrics": {
-        "total_configs": 27,
+        "total_configs": 26,
         "valid_configs": 17,
         "unique_configs": 15,
         "avg_response_time": 0,
@@ -4471,7 +4471,7 @@
       "url": "https://t.me/s/antimeli",
       "enabled": false,
       "metrics": {
-        "total_configs": 9,
+        "total_configs": 7,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -4737,13 +4737,13 @@
       "url": "https://t.me/s/arv2ray",
       "enabled": false,
       "metrics": {
-        "total_configs": 18,
+        "total_configs": 17,
         "valid_configs": 2,
         "unique_configs": 0,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 1,
-        "overall_score": 17.78,
+        "overall_score": 17.94,
         "last_success": null
       }
     },
@@ -6041,7 +6041,7 @@
       "metrics": {
         "total_configs": 20,
         "valid_configs": 2,
-        "unique_configs": 1,
+        "unique_configs": 2,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -6809,13 +6809,13 @@
       "url": "https://t.me/s/directvpn",
       "enabled": true,
       "metrics": {
-        "total_configs": 16,
-        "valid_configs": 15,
+        "total_configs": 19,
+        "valid_configs": 18,
         "unique_configs": 0,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 1,
-        "overall_score": 38.44,
+        "overall_score": 38.68,
         "last_success": null
       }
     },
@@ -7087,15 +7087,15 @@
     },
     {
       "url": "https://t.me/s/elitevpnv2",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
         "total_configs": 5,
-        "valid_configs": 0,
-        "unique_configs": 0,
+        "valid_configs": 1,
+        "unique_configs": 1,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
+        "fail_count": 0,
+        "overall_score": 0.0,
         "last_success": null
       }
     },
@@ -7103,7 +7103,7 @@
       "url": "https://t.me/s/entrynet",
       "enabled": true,
       "metrics": {
-        "total_configs": 14,
+        "total_configs": 13,
         "valid_configs": 1,
         "unique_configs": 1,
         "avg_response_time": 0,
@@ -7243,7 +7243,7 @@
       "url": "https://t.me/s/expressvpn_420",
       "enabled": true,
       "metrics": {
-        "total_configs": 9,
+        "total_configs": 6,
         "valid_configs": 2,
         "unique_configs": 2,
         "avg_response_time": 0,
@@ -7775,7 +7775,7 @@
       "url": "https://t.me/s/flyv2ray",
       "enabled": true,
       "metrics": {
-        "total_configs": 17,
+        "total_configs": 16,
         "valid_configs": 5,
         "unique_configs": 5,
         "avg_response_time": 0,
@@ -9455,9 +9455,9 @@
       "url": "https://t.me/s/hope_net",
       "enabled": true,
       "metrics": {
-        "total_configs": 79,
-        "valid_configs": 38,
-        "unique_configs": 38,
+        "total_configs": 80,
+        "valid_configs": 44,
+        "unique_configs": 44,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -9467,15 +9467,15 @@
     },
     {
       "url": "https://t.me/s/hopev2ray",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
-        "total_configs": 0,
-        "valid_configs": 0,
-        "unique_configs": 0,
+        "total_configs": 8,
+        "valid_configs": 7,
+        "unique_configs": 7,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
+        "fail_count": 0,
+        "overall_score": 0.0,
         "last_success": null
       }
     },
@@ -9806,8 +9806,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 5,
-        "unique_configs": 5,
+        "valid_configs": 4,
+        "unique_configs": 4,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -10687,9 +10687,9 @@
       "url": "https://t.me/s/kurdistan_vpn_perfectt",
       "enabled": true,
       "metrics": {
-        "total_configs": 18,
-        "valid_configs": 4,
-        "unique_configs": 4,
+        "total_configs": 20,
+        "valid_configs": 5,
+        "unique_configs": 5,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -11038,8 +11038,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 200,
-        "valid_configs": 26,
-        "unique_configs": 12,
+        "valid_configs": 17,
+        "unique_configs": 9,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -11149,7 +11149,7 @@
       "url": "https://t.me/s/mahanvpn",
       "enabled": false,
       "metrics": {
-        "total_configs": 2,
+        "total_configs": 0,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -11233,7 +11233,7 @@
       "url": "https://t.me/s/manzariyeh_rasht",
       "enabled": false,
       "metrics": {
-        "total_configs": 26,
+        "total_configs": 25,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -11276,8 +11276,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 9,
-        "valid_configs": 3,
-        "unique_configs": 3,
+        "valid_configs": 2,
+        "unique_configs": 2,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -11359,7 +11359,7 @@
       "url": "https://t.me/s/mehrosaboran",
       "enabled": false,
       "metrics": {
-        "total_configs": 45,
+        "total_configs": 50,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -11373,7 +11373,7 @@
       "url": "https://t.me/s/meli_proxyy",
       "enabled": true,
       "metrics": {
-        "total_configs": 60,
+        "total_configs": 62,
         "valid_configs": 6,
         "unique_configs": 6,
         "avg_response_time": 0,
@@ -11877,7 +11877,7 @@
       "url": "https://t.me/s/msv2raynp",
       "enabled": false,
       "metrics": {
-        "total_configs": 9,
+        "total_configs": 8,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -11933,7 +11933,7 @@
       "url": "https://t.me/s/mtpproxy0098",
       "enabled": true,
       "metrics": {
-        "total_configs": 3,
+        "total_configs": 4,
         "valid_configs": 1,
         "unique_configs": 1,
         "avg_response_time": 0,
@@ -12213,7 +12213,7 @@
       "url": "https://t.me/s/networknim",
       "enabled": false,
       "metrics": {
-        "total_configs": 5,
+        "total_configs": 4,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -12227,9 +12227,9 @@
       "url": "https://t.me/s/new_mtproxi2",
       "enabled": true,
       "metrics": {
-        "total_configs": 57,
-        "valid_configs": 13,
-        "unique_configs": 13,
+        "total_configs": 68,
+        "valid_configs": 16,
+        "unique_configs": 16,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -13165,9 +13165,9 @@
       "url": "https://t.me/s/poroxybaz",
       "enabled": true,
       "metrics": {
-        "total_configs": 157,
-        "valid_configs": 48,
-        "unique_configs": 25,
+        "total_configs": 164,
+        "valid_configs": 26,
+        "unique_configs": 12,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -13375,7 +13375,7 @@
       "url": "https://t.me/s/privatevpns",
       "enabled": false,
       "metrics": {
-        "total_configs": 17,
+        "total_configs": 19,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -13585,7 +13585,7 @@
       "url": "https://t.me/s/proxy_mtproto_vpns_free",
       "enabled": false,
       "metrics": {
-        "total_configs": 12,
+        "total_configs": 10,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -13935,7 +13935,7 @@
       "url": "https://t.me/s/psiphonf",
       "enabled": false,
       "metrics": {
-        "total_configs": 10,
+        "total_configs": 7,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -14383,7 +14383,7 @@
       "url": "https://t.me/s/roshdcollection",
       "enabled": false,
       "metrics": {
-        "total_configs": 7,
+        "total_configs": 6,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -15431,15 +15431,15 @@
     },
     {
       "url": "https://t.me/s/strongprotocol",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
-        "total_configs": 0,
-        "valid_configs": 0,
-        "unique_configs": 0,
+        "total_configs": 1,
+        "valid_configs": 1,
+        "unique_configs": 1,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
+        "fail_count": 0,
+        "overall_score": 0.0,
         "last_success": null
       }
     },
@@ -15755,7 +15755,7 @@
       "url": "https://t.me/s/tls_v2ray",
       "enabled": false,
       "metrics": {
-        "total_configs": 2,
+        "total_configs": 1,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -16301,7 +16301,7 @@
       "url": "https://t.me/s/v2aryng_vpn",
       "enabled": true,
       "metrics": {
-        "total_configs": 17,
+        "total_configs": 18,
         "valid_configs": 2,
         "unique_configs": 2,
         "avg_response_time": 0,
@@ -16427,7 +16427,7 @@
       "url": "https://t.me/s/v2fre",
       "enabled": true,
       "metrics": {
-        "total_configs": 2,
+        "total_configs": 3,
         "valid_configs": 1,
         "unique_configs": 1,
         "avg_response_time": 0,
@@ -16988,8 +16988,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 20,
-        "valid_configs": 5,
-        "unique_configs": 5,
+        "valid_configs": 4,
+        "unique_configs": 4,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -17757,7 +17757,7 @@
       "url": "https://t.me/s/v2rayfree",
       "enabled": false,
       "metrics": {
-        "total_configs": 11,
+        "total_configs": 10,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -18471,7 +18471,7 @@
       "url": "https://t.me/s/v2rayng_nv1",
       "enabled": false,
       "metrics": {
-        "total_configs": 7,
+        "total_configs": 9,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -20361,7 +20361,7 @@
       "url": "https://t.me/s/vlessconfig",
       "enabled": false,
       "metrics": {
-        "total_configs": 17,
+        "total_configs": 19,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -21091,11 +21091,11 @@
       "metrics": {
         "total_configs": 20,
         "valid_configs": 12,
-        "unique_configs": 0,
+        "unique_configs": 1,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 30.0,
+        "fail_count": 0,
+        "overall_score": 0.0,
         "last_success": null
       }
     },
@@ -22013,7 +22013,7 @@
       "url": "https://t.me/s/webovpn",
       "enabled": false,
       "metrics": {
-        "total_configs": 5,
+        "total_configs": 4,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -22041,7 +22041,7 @@
       "url": "https://t.me/s/wedbazvpn",
       "enabled": false,
       "metrics": {
-        "total_configs": 29,
+        "total_configs": 30,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,
@@ -22377,7 +22377,7 @@
       "url": "https://t.me/s/xsv2ray",
       "enabled": false,
       "metrics": {
-        "total_configs": 3,
+        "total_configs": 1,
         "valid_configs": 0,
         "unique_configs": 0,
         "avg_response_time": 0,

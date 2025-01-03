@@ -680,9 +680,9 @@
         <text x="140" y="16900" text-anchor="end" class="row">artemisvpn1</text>
         <text x="660" y="16900" text-anchor="start" class="score">32.9% (S:0%)</text><rect x="150" y="16930" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="16930" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="16950" text-anchor="end" class="row">arv2ra</text>
-        <text x="660" y="16950" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="16980" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="16980" width="88.9" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="16950" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="16980" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="16980" width="89.7" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="17000" text-anchor="end" class="row">arv2ray</text>
-        <text x="660" y="17000" text-anchor="start" class="score">17.8% (S:0%)</text><rect x="150" y="17030" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="17030" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="17000" text-anchor="start" class="score">17.9% (S:0%)</text><rect x="150" y="17030" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="17030" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="17050" text-anchor="end" class="row">aryoovpn</text>
         <text x="660" y="17050" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="17080" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="17080" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="17100" text-anchor="end" class="row">asak_vpn</text>
@@ -976,9 +976,9 @@
         <text x="140" y="24300" text-anchor="end" class="row">digiv2ray23</text>
         <text x="660" y="24300" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="24330" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="24330" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="24350" text-anchor="end" class="row">dingyue_center</text>
-        <text x="660" y="24350" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="24380" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="24380" width="192.2" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="24350" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="24380" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="24380" width="193.4" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="24400" text-anchor="end" class="row">directvpn</text>
-        <text x="660" y="24400" text-anchor="start" class="score">38.4% (S:0%)</text><rect x="150" y="24430" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="24430" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="24400" text-anchor="start" class="score">38.7% (S:0%)</text><rect x="150" y="24430" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="24430" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="24450" text-anchor="end" class="row">disconnectedconfig</text>
         <text x="660" y="24450" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="24480" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="24480" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="24500" text-anchor="end" class="row">disvpn</text>
@@ -1016,9 +1016,9 @@
         <text x="140" y="25300" text-anchor="end" class="row">elfv2ray</text>
         <text x="660" y="25300" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="25330" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="25330" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="25350" text-anchor="end" class="row">elias_vpn</text>
-        <text x="660" y="25350" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="25380" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="25380" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="25350" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="25380" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="25380" width="0.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="25400" text-anchor="end" class="row">elitevpnv2</text>
-        <text x="660" y="25400" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="25430" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="25430" width="0.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="25400" text-anchor="start" class="score">0.0% (S:0%)</text><rect x="150" y="25430" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="25430" width="0.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="25450" text-anchor="end" class="row">entrynet</text>
         <text x="660" y="25450" text-anchor="start" class="score">0.0% (S:0%)</text><rect x="150" y="25480" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="25480" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="25500" text-anchor="end" class="row">ertebatazad</text>
@@ -1356,9 +1356,9 @@
         <text x="140" y="33800" text-anchor="end" class="row">hootvpm</text>
         <text x="660" y="33800" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="33830" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="33830" width="0.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="33850" text-anchor="end" class="row">hope_net</text>
-        <text x="660" y="33850" text-anchor="start" class="score">0.0% (S:0%)</text><rect x="150" y="33880" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="33880" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="33850" text-anchor="start" class="score">0.0% (S:0%)</text><rect x="150" y="33880" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="33880" width="0.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="33900" text-anchor="end" class="row">hopev2ray</text>
-        <text x="660" y="33900" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="33930" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="33930" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="33900" text-anchor="start" class="score">0.0% (S:0%)</text><rect x="150" y="33930" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="33930" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="33950" text-anchor="end" class="row">hopevpn</text>
         <text x="660" y="33950" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="33980" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="33980" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="34000" text-anchor="end" class="row">hormozvpn</text>
@@ -2208,9 +2208,9 @@
         <text x="140" y="55100" text-anchor="end" class="row">starv2rayn</text>
         <text x="660" y="55100" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="55130" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="55130" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="55150" text-anchor="end" class="row">staticvpn</text>
-        <text x="660" y="55150" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="55180" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="55180" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="55150" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="55180" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="55180" width="0.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="55200" text-anchor="end" class="row">strongprotocol</text>
-        <text x="660" y="55200" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="55230" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="55230" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="55200" text-anchor="start" class="score">0.0% (S:0%)</text><rect x="150" y="55230" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="55230" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="55250" text-anchor="end" class="row">subscription8</text>
         <text x="660" y="55250" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="55280" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="55280" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="55300" text-anchor="end" class="row">sudovpn</text>
@@ -3016,9 +3016,9 @@
         <text x="140" y="75300" text-anchor="end" class="row">vpnepic</text>
         <text x="660" y="75300" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="75330" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="75330" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="75350" text-anchor="end" class="row">vpneti</text>
-        <text x="660" y="75350" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="75380" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="75380" width="150.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="75350" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="75380" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="75380" width="0.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="75400" text-anchor="end" class="row">vpnfail_v2ray</text>
-        <text x="660" y="75400" text-anchor="start" class="score">30.0% (S:0%)</text><rect x="150" y="75430" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="75430" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="75400" text-anchor="start" class="score">0.0% (S:0%)</text><rect x="150" y="75430" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="75430" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="75450" text-anchor="end" class="row">vpnfastservice</text>
         <text x="660" y="75450" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="75480" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="75480" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="75500" text-anchor="end" class="row">vpnforsale1402</text>
