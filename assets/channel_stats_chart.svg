@@ -178,9 +178,9 @@
         <text x="140" y="4350" text-anchor="end" class="row">astrovpn_official</text>
         <text x="660" y="4350" text-anchor="start" class="score">36.9% (S:0%)</text><rect x="150" y="4380" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="4380" width="0.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="4400" text-anchor="end" class="row">free4allvpn</text>
-        <text x="660" y="4400" text-anchor="start" class="score">0.0% (S:0%)</text><rect x="150" y="4430" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="4430" width="0.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="4400" text-anchor="start" class="score">0.0% (S:0%)</text><rect x="150" y="4430" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="4430" width="200.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="4450" text-anchor="end" class="row">freev2rays</text>
-        <text x="660" y="4450" text-anchor="start" class="score">0.0% (S:0%)</text><rect x="150" y="4480" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="4480" width="75.0" height="30" fill="#ef4444" rx="5"/>
+        <text x="660" y="4450" text-anchor="start" class="score">40.0% (S:0%)</text><rect x="150" y="4480" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="4480" width="75.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="4500" text-anchor="end" class="row">v2rayng_vpn</text>
         <text x="660" y="4500" text-anchor="start" class="score">15.0% (S:0%)</text><rect x="150" y="4530" width="500" height="30" fill="#eee" rx="5"/><rect x="150" y="4530" width="0.0" height="30" fill="#ef4444" rx="5"/>
         <text x="140" y="4550" text-anchor="end" class="row">directvpn</text>
