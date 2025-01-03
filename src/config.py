@@ -1691,7 +1691,7 @@ class ProxyConfig:
         self.MIN_CONFIGS_PER_CHANNEL = 5
         self.MAX_CONFIGS_PER_CHANNEL = 30
         self.MAX_CONFIG_AGE_DAYS = 14
-        self.CHANNEL_RETRY_LIMIT = 1
+        self.CHANNEL_RETRY_LIMIT = 2
         self.CHANNEL_ERROR_THRESHOLD = 0.5
 
         self.MIN_PROTOCOL_RATIO = 0.15
@@ -1699,9 +1699,9 @@ class ProxyConfig:
         self.OUTPUT_FILE = 'configs/proxy_configs.txt'
         self.STATS_FILE = 'configs/channel_stats.json'
 
-        self.MAX_RETRIES = 1
+        self.MAX_RETRIES = 2
         self.RETRY_DELAY = 1
-        self.REQUEST_TIMEOUT = 30
+        self.REQUEST_TIMEOUT = 4
 
         self.HEADERS = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
