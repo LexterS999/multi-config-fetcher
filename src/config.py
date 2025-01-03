@@ -145,8 +145,8 @@ class ProxyConfig:
         ]
 
         self.PROTOCOL_CONFIG_LIMITS = {
-            "min": 5,
-            "max": 15
+            "min": 1200,
+            "max": 1200
         }
 
         self.SUPPORTED_PROTOCOLS: Dict[str, Dict] = {
@@ -158,13 +158,13 @@ class ProxyConfig:
             "trojan://": {"min_configs": self.PROTOCOL_CONFIG_LIMITS["min"], "max_configs": self.PROTOCOL_CONFIG_LIMITS["max"]}
         }
 
-        self.MIN_CONFIGS_PER_CHANNEL = 900
+        self.MIN_CONFIGS_PER_CHANNEL = 1200
         self.MAX_CONFIGS_PER_CHANNEL = 1200
-        self.MAX_CONFIG_AGE_DAYS = 6
+        self.MAX_CONFIG_AGE_DAYS = 9
         self.CHANNEL_RETRY_LIMIT = 1
-        self.CHANNEL_ERROR_THRESHOLD = 0.6
+        self.CHANNEL_ERROR_THRESHOLD = 0.5
 
-        self.MIN_PROTOCOL_RATIO = 0.20
+        self.MIN_PROTOCOL_RATIO = 0.15
 
         self.OUTPUT_FILE = 'configs/proxy_configs.txt'
         self.STATS_FILE = 'configs/channel_stats.json'
