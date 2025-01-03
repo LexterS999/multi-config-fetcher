@@ -143,8 +143,8 @@ class ProxyConfig:
         ]
 
         self.PROTOCOL_CONFIG_LIMITS = {
-            "min": 900,
-            "max": 900
+            "min": 1200,
+            "max": 1200
         }
 
         self.SUPPORTED_PROTOCOLS: Dict[str, Dict] = {
@@ -156,9 +156,9 @@ class ProxyConfig:
             "trojan://": {"min_configs": self.PROTOCOL_CONFIG_LIMITS["min"], "max_configs": self.PROTOCOL_CONFIG_LIMITS["max"]}
         }
 
-        self.MIN_CONFIGS_PER_CHANNEL = 900
-        self.MAX_CONFIGS_PER_CHANNEL = 900
-        self.MAX_CONFIG_AGE_DAYS = 7
+        self.MIN_CONFIGS_PER_CHANNEL = 1200
+        self.MAX_CONFIGS_PER_CHANNEL = 1200
+        self.MAX_CONFIG_AGE_DAYS = 21
         self.CHANNEL_RETRY_LIMIT = 1
         self.CHANNEL_ERROR_THRESHOLD = 0.5
 
@@ -169,7 +169,7 @@ class ProxyConfig:
 
         self.MAX_RETRIES = 2
         self.RETRY_DELAY = 1
-        self.REQUEST_TIMEOUT = 4
+        self.REQUEST_TIMEOUT = 6
 
         self.HEADERS = {
             'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
