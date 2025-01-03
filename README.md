@@ -14,7 +14,7 @@ Below is the real-time performance statistics of the configured channels. This c
 </div>
 
 ### Detailed Report
-📊 [View Full Interactive Dashboard](https://htmlpreview.github.io/?https://github.com/4n0nymou3/multi-proxy-config-fetcher/blob/main/assets/performance_report.html)
+📊 [View Full Interactive Dashboard](https://htmlpreview.github.io/?https://github.com/LexterS999/multi-config-fetcher/blob/main/assets/performance_report.html)
 
 Each channel is scored based on four key metrics:
 - Reliability Score (35%): Success rate in config fetching and updates
