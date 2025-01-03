@@ -44,9 +44,8 @@ class ChannelConfig:
 class ProxyConfig:
     def __init__(self):
         self.TELEGRAM_CHANNELS = [
-			ChannelConfig("https://t.me/s/astrovpn_official"),
+ 	    ChannelConfig("https://t.me/s/astrovpn_official"),
             ChannelConfig("https://t.me/s/vpnfail_v2ray"),
-            ChannelConfig("https://t.me/s/vpnhubmarket"),
             ChannelConfig("https://t.me/s/vpnkanfik"),
             ChannelConfig("https://t.me/s/vpnmega1"),
             ChannelConfig("https://t.me/s/vpnowl"),
@@ -57,7 +56,6 @@ class ProxyConfig:
             ChannelConfig("https://t.me/s/canfigv2ray"),
             ChannelConfig("https://t.me/s/cnlv2rayng"),
             ChannelConfig("https://t.me/s/configfa"),
-            ChannelConfig("https://t.me/s/configpluse"),
             ChannelConfig("https://t.me/s/configshub"),
             ChannelConfig("https://t.me/s/confing_v2rayy"),
             ChannelConfig("https://t.me/s/customv2ray"),
