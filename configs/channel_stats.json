@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-01-04T01:26:46.891170",
+  "timestamp": "2025-01-04T02:50:15.031769",
   "channels": [
     {
       "url": "https://t.me/s/astrovpn_official",
@@ -20,8 +20,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 40,
-        "valid_configs": 30,
-        "unique_configs": 15,
+        "valid_configs": 28,
+        "unique_configs": 14,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -174,8 +174,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 40,
-        "valid_configs": 2,
-        "unique_configs": 1,
+        "valid_configs": 4,
+        "unique_configs": 2,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -384,7 +384,7 @@
       "enabled": true,
       "metrics": {
         "total_configs": 40,
-        "valid_configs": 18,
+        "valid_configs": 16,
         "unique_configs": 8,
         "avg_response_time": 0,
         "success_count": 0,
@@ -495,9 +495,9 @@
       "url": "https://t.me/s/hope_net",
       "enabled": true,
       "metrics": {
-        "total_configs": 152,
-        "valid_configs": 104,
-        "unique_configs": 52,
+        "total_configs": 150,
+        "valid_configs": 102,
+        "unique_configs": 51,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -538,8 +538,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 40,
-        "valid_configs": 14,
-        "unique_configs": 6,
+        "valid_configs": 10,
+        "unique_configs": 4,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -748,8 +748,8 @@
       "enabled": true,
       "metrics": {
         "total_configs": 364,
-        "valid_configs": 320,
-        "unique_configs": 126,
+        "valid_configs": 314,
+        "unique_configs": 124,
         "avg_response_time": 0,
         "success_count": 0,
         "fail_count": 0,
@@ -1099,11 +1099,11 @@
       "metrics": {
         "total_configs": 2,
         "valid_configs": 2,
-        "unique_configs": 1,
+        "unique_configs": 0,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 0,
-        "overall_score": 0.0,
+        "fail_count": 1,
+        "overall_score": 40.0,
         "last_success": null
       }
     },
@@ -1168,12 +1168,12 @@
       "enabled": true,
       "metrics": {
         "total_configs": 40,
-        "valid_configs": 30,
-        "unique_configs": 0,
+        "valid_configs": 28,
+        "unique_configs": 1,
         "avg_response_time": 0,
         "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 33.75,
+        "fail_count": 0,
+        "overall_score": 0.0,
         "last_success": null
       }
     },
